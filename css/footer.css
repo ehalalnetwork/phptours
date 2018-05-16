@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+.g24{
+	padding: 15px 0px 0 0px;
+	width: 920px;
+}
+
+.footer{
+	background:#e87c00;
+	height: 60px;
+	width:940px;
+	padding-bottom:15px;
+}
+
+.footer_left{
+	float:left;
+	width: 320px;
+	font-weight:bold;
+	height:60px;
+	color:#FFF;
+	padding-left:10px;
+}
+
+ 
+
+.footer_right{
+	float:right;
+	text-align:right;
+    width: 600px;
+	padding-right: 10px;
+	color:#FFF;
+}
+
+.footer_right a{
+	text-decoration:none;
+	color:inherit;
+	font-weight:bold;
+}
+.footer_right a:hover{
+	color:#000;
+}
+ 

@@ -1,0 +1,103 @@
+@charset "utf-8";
+.alternate_hotel{
+	background-color: #FFFFFF;
+    border-top: 2px solid #E1E1E1;    
+	border-bottom: 2px solid #E1E1E1;    
+	height: 60px;
+	width: 930px;	 
+	padding-left: 10px;
+	 
+}
+.panel-subhead{
+	margin: 10px 0 10px 10px;
+	color: #989898;
+    font-weight: bold;
+    padding: 5px 0;
+	border: 0 none;
+}
+
+.hotel_list{
+   margin-left: 10px;
+   margin-right: 10px;
+   width: 910ox;
+   height: auto;
+   border: 2px #cccccc solid;
+   background:#FFF;
+   color:#000;
+}
+
+.hotets{	
+	list-style: none;
+	width:875px;	 
+	margin: 0;
+	padding:0;
+	 
+}
+.hotels_li{
+	padding: 8px 6px 4px 6px;	 
+	list-style: none;
+	height: 42px;
+	width: 900px;
+}
+
+.hotels_li img{
+	border: 2px #cccccc solid;
+}
+
+.hotels_top{
+	float:left;
+	width:500px;
+	height:35px;
+}
+
+.span_hotels{
+	font-size:16px;
+	font-weight:bold;
+	color:#000;
+	padding-left: 20px;
+	padding-right: 10px;
+	float:left;
+}
+.hotels_top a{
+	text-decoration:none;
+}
+.span_hotels_rating{
+   background:url(../images/global/star-rating-sprite-right-yellow.png) no-repeat;
+	overflow:hidden;
+	width: 120px;
+	height: 20px;
+	float:left; 
+}
+.address{
+	font-size:11px;
+	color:#000;
+	padding-left: 20px;
+	padding-top: 8px;
+	font-style:normal;
+}
+
+.hotels_right{
+	float:right;
+	width: 280px;
+	height: 35px;
+	text-align:right;
+}
+
+.hotels_right_price{
+	font-size:12px;
+	font-weight:bold;
+	padding-right: 5px;
+}
+
+.hotels-price{
+	color: #B00764;
+    font-size: 18px;
+    font-weight: bold;
+}
+.hotel-rack{
+	color: #999999;
+    font-size: 18px;
+    font-weight: bold;
+    padding-right: 5px;
+   
+}
