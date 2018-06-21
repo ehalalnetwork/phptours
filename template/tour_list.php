@@ -18,7 +18,7 @@
  
  <div class="alternate_hotel">
     
-    <!--- alternate hotel description-->   
+    <!--- alternate tour description-->   
      <h1>Alternative Tours</h1>
     </div>      
    <p class="panel-subhead">The following Tours are available in <b><?php echo $tour_city;?></b> and can be booked now.</p>
